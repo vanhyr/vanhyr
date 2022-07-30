@@ -14,8 +14,8 @@ I'm an spanish man trying to do cool things.
 [![Discord](https://img.shields.io/discord/TODO?color=74c7ec&label=DISCORD&logo=discord)](https://discord.gg/TODO)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCAKqN_pmU1RoKjoIK8Mhq1A?color=eba0ac&style=flat&label=YOUTUBE&logo=youtube)](https://youtube.com/channel/UCAKqN_pmU1RoKjoIK8Mhq1A)
 
-![Vercel stats](https://github-readme-stats.vercel.app/api?username=vanhyr&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true)
-![Vercel top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhyr&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true)
+<!--![Vercel stats](https://github-readme-stats.vercel.app/api?username=vanhyr&theme=radical&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true)
+![Vercel top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhyr&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true)-->
 
 Featured projects:
 
